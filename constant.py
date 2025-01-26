@@ -1,0 +1,9 @@
+CHUNK = 'chunk'
+GEMINI = 'gemini'
+ONLINE_LLM = 'online_llm'
+VIETNAMESE = "Vietnamese"
+VI = 'vi'
+NONE = 'none'
+USER = 'user'
+ASSISTANT = 'assistant'
+DB = 'DB'
